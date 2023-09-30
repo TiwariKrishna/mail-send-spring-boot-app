@@ -1,4 +1,5 @@
-**# mail-send-spring-boot-app**
+# mail-send-spring-boot-app
+
 We need to add mail dependency in pom.xml
 
 <dependency>
